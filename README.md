@@ -1,7 +1,11 @@
 ## Peer-To-Peer Ride Sharing Platform
 
+## The problem it solves
 
-
+First of all its eliminates pollution caused by gas powered vehicles.
+Secondly, This platform allows users to rent a car for a small period of time in affordable cost.
+Thirdly, Users are able to earn some money from sharing their cars when they do not need them.
+Furthermore, we are not forced to buy a car what significantly reduces our living and maintenance costs.
 
 ## Challenges we ran into
 
