@@ -1,5 +1,4 @@
-# Peer-to-peer-ride-sahring-system
-
+#Peer-To-Peer Ride Sharing System
 ## Inspiration
 
 
